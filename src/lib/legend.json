@@ -1,0 +1,125 @@
+{
+  "clearsky": {
+    "English": "Clear sky"
+  },
+  "fair": {
+    "English": "Fair"
+  },
+  "partlycloudy": {
+    "English": "Partly cloudy"
+  },
+  "cloudy": {
+    "English": "Cloudy"
+  },
+  "lightrainshowers": {
+    "English": "Light rain showers"
+  },
+  "rainshowers": {
+    "English": "Rain showers"
+  },
+  "heavyrainshowers": {
+    "English": "Heavy rain showers"
+  },
+  "lightrainshowersandthunder": {
+    "English": "Light rain showers and thunder"
+  },
+  "rainshowersandthunder": {
+    "English": "Rain showers and thunder"
+  },
+  "heavyrainshowersandthunder": {
+    "English": "Heavy rain showers and thunder"
+  },
+  "lightsleetshowers": {
+    "English": "Light sleet showers"
+  },
+  "sleetshowers": {
+    "English": "Sleet showers"
+  },
+  "heavysleetshowers": {
+    "English": "Heavy sleet showers"
+  },
+  "lightssleetshowersandthunder": {
+    "English": "Light sleet showers and thunder"
+  },
+  "sleetshowersandthunder": {
+    "English": "Sleet showers and thunder"
+  },
+  "heavysleetshowersandthunder": {
+    "English": "Heavy sleet showers and thunder"
+  },
+  "lightsnowshowers": {
+    "English": "Light snow showers"
+  },
+  "snowshowers": {
+    "English": "Snow showers"
+  },
+  "heavysnowshowers": {
+    "English": "Heavy snow showers"
+  },
+  "lightssnowshowersandthunder": {
+    "English": "Light snow showers and thunder"
+  },
+  "snowshowersandthunder": {
+    "English": "Snow showers and thunder"
+  },
+  "heavysnowshowersandthunder": {
+    "English": "Heavy snow showers and thunder"
+  },
+  "lightrain": {
+    "English": "Light rain"
+  },
+  "rain": {
+    "English": "Rain"
+  },
+  "heavyrain": {
+    "English": "Heavy rain"
+  },
+  "lightrainandthunder": {
+    "English": "Light rain and thunder"
+  },
+  "rainandthunder": {
+    "English": "Rain and thunder"
+  },
+  "heavyrainandthunder": {
+    "English": "Heavy rain and thunder"
+  },
+  "lightsleet": {
+    "English": "Light sleet"
+  },
+  "sleet": {
+    "English": "Sleet"
+  },
+  "heavysleet": {
+    "English": "Heavy sleet"
+  },
+  "lightsleetandthunder": {
+    "English": "Light sleet and thunder"
+  },
+  "sleetandthunder": {
+    "English": "Sleet and thunder"
+  },
+  "heavysleetandthunder": {
+    "English": "Heavy sleet and thunder"
+  },
+  "lightsnow": {
+    "English": "Light snow"
+  },
+  "snow": {
+    "English": "Snow"
+  },
+  "heavysnow": {
+    "English": "Heavy snow"
+  },
+  "lightsnowandthunder": {
+    "English": "Light snow and thunder"
+  },
+  "snowandthunder": {
+    "English": "Snow and thunder"
+  },
+  "heavysnowandthunder": {
+    "English": "Heavy snow and thunder"
+  },
+  "fog": {
+    "English": "Fog"
+  }
+}
