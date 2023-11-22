@@ -25,10 +25,16 @@
 	
 </script>
 
+<svelte:head>
+	<title>Weather Svelte</title>
+	<meta name="description" content="An App for Getting the Current Weather Information made using Svelte" />
+</svelte:head>
+
+
 <main>
 	<div class="flex px-5 gap-5 mt-2">
-		<input bind:value={place} type="text" class="input variant-filled h-10 p-4">
-		<button on:click={getWeatherInfo} class="btn-icon variant-filled p-2 h-10"><img src="/search.png" alt="" class=""></button>
+		<input bind:value={place} type="text" class="input variant-filled h-10 p-4" aria-label="Search Bar">
+		<button on:click={getWeatherInfo} class="btn-icon variant-filled p-2 h-10" aria-label="Search Button"><img src="/search.png" alt="" class="" ></button>
 	</div>
 
 

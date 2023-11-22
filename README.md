@@ -2,7 +2,7 @@
 A weather App made with svelte
 
 ## LINK
-[LINK](https://www.google.com/)
+[LINK](https://weather-svelte-bbpaz5r5c-brajo280603.vercel.app/)
 
 ## create-svelte
 
